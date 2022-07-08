@@ -113,3 +113,8 @@ p {
 .carousel-item {
     padding: 7% 15%;
 }
+
+#pricing {
+    padding: 3% 15%;
+    text-align: center;
+}
